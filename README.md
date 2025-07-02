@@ -66,11 +66,6 @@ sudo ./wifideauth.sh
 
 ---
 
-## 📸 Demo
-
-![screenshot](demo.png) <!-- Optional: add a screenshot if available -->
-
----
 
 ## 🛡️ Disclaimer
 
